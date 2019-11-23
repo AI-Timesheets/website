@@ -79,10 +79,10 @@
                         <!-- Caption -->
                         <div class="column is-8 is-offset-2 is-hero-caption">
                             <h1 class="title is-1">
-                                <span id="landing-title">AI Powered Time Clock System</span>
+                                <span id="landing-title">Facial Recognition Attendance Software</span>
                             </h1>
                             <h2 class="subtitle is-5">
-                                Simple, secure, and convenient clock-in clock-out system with facial recognition.
+                                Allow your employees to scan their face in order to clock in. We use AI technology for 100% accurate results.
                             </h2>
 
                             <!-- Hero Mockup -->
