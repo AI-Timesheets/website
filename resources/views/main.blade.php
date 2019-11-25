@@ -85,7 +85,7 @@
                                 Eliminate buddy punching. Allow your employees to scan their face to clock in.
                             </h2>
                             <h3 class="subtitle is-6">
-                                Available Q1 2019.
+                                Available Q1 2020.
                             </h3>
                             <div class="button-wrap">
                                 <a href="#pricing" class="button cta-button primary-button is-raised is-rounded signup">Signup for Early Access</a>
