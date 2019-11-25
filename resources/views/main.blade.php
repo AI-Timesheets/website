@@ -23,9 +23,9 @@
         <nav class="navbar is-transparent is-fixed-top is-faded">
             <div class="container">
                 <div class="navbar-brand">
-                    <a class="navbar-item" href="https://bulkitv2.cssninja.io/">
-                        <img class="light-logo" src="assets/images/logo/bulkit-light.svg" width="28" height="28" alt="">
-                        <img class="dark-logo is-hidden" src="assets/images/logo/bulkit-dark.svg" width="28" height="28" alt="">
+                    <a class="navbar-item" href="https://aitimesheets.com/">
+                        <img class="light-logo" src="assets/images/icons/clock-solid.svg" width="28" height="28" alt="">
+                        <img class="dark-logo is-hidden" src="assets/images/icons/clock-solid.svg" width="28" height="28" alt="">
                     </a>
 
                     <!-- Sidebar Trigger -->
@@ -82,11 +82,16 @@
                                 <span id="landing-title">Facial Recognition Attendance Software</span>
                             </h1>
                             <h2 class="subtitle is-5">
-                                Allow your employees to scan their face in order to clock in. We use AI technology for 100% accurate results.
+                                Eliminate buddy punching. Allow your employees to scan their face to clock in.
                             </h2>
-
+                            <h3 class="subtitle is-6">
+                                Available Q1 2019.
+                            </h3>
+                            <div class="button-wrap">
+                                <a href="#pricing" class="button cta-button primary-button is-raised is-rounded signup">Signup for Early Access</a>
+                            </div>
                             <!-- Hero Mockup -->
-                            <img class="hero-mockup" src="assets/images/illustrations/clay-app.png" alt="">
+                            <!-- <img class="hero-mockup" src="assets/images/illustrations/home.png" alt=""> -->
 
                         </div>
                     </div>
@@ -109,21 +114,21 @@
                         <!--Icon Block-->
                         <div class="feature-block">
                             <div class="round-icon is-icon-reveal">
-                                <img src="assets/images/icons/features/1.svg" alt="">
+                                <img src="assets/images/icons/features/3.svg" alt="">
                             </div>
                             <div class="meta">
-                                <span>Symetric Replication</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
+                                <span>Eliminate Buddy Punching</span>
+                                <span>Your employees will no longer be able to punch in for their buddies.</span>
                             </div>
                         </div>
                         <!--Icon Block-->
                         <div class="feature-block">
                             <div class="round-icon is-icon-reveal">
-                                <img src="assets/images/icons/features/3.svg" alt="">
+                                <img src="assets/images/icons/features/1.svg" alt="">
                             </div>
                             <div class="meta">
-                                <span>Quality Insurance</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
+                                <span>Cloud AI Technology</span>
+                                <span>Cloud technologies allow us to provide an instant setup time with no complex server installation.</span>
                             </div>
                         </div>
                         <!--Icon Block-->
@@ -132,70 +137,8 @@
                                 <img src="assets/images/icons/features/5.svg" alt="">
                             </div>
                             <div class="meta">
-                                <span>Quality Insurance</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
-                            </div>
-                        </div>
-                        <!--Icon Block-->
-                        <div class="feature-block">
-                            <div class="round-icon is-icon-reveal">
-                                <img src="assets/images/icons/features/8.svg" alt="">
-                            </div>
-                            <div class="meta">
-                                <span>Quality Insurance</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
-                            </div>
-                        </div>
-                        <!--Icon Block-->
-                        <div class="feature-block">
-                            <div class="round-icon is-icon-reveal">
-                                <img src="assets/images/icons/features/10.svg" alt="">
-                            </div>
-                            <div class="meta">
-                                <span>Quality Insurance</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column is-5">
-                        <!--Icon Block-->
-                        <div class="feature-block">
-                            <div class="round-icon is-icon-reveal">
-                                <img src="assets/images/icons/features/2.svg" alt="">
-                            </div>
-                            <div class="meta">
-                                <span>Reinforced Encryption</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
-                            </div>
-                        </div>
-                        <!--Icon Block-->
-                        <div class="feature-block">
-                            <div class="round-icon is-icon-reveal">
-                                <img src="assets/images/icons/features/4.svg" alt="">
-                            </div>
-                            <div class="meta">
-                                <span>Reinforced Encryption</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
-                            </div>
-                        </div>
-                        <!--Icon Block-->
-                        <div class="feature-block">
-                            <div class="round-icon is-icon-reveal">
-                                <img src="assets/images/icons/features/6.svg" alt="">
-                            </div>
-                            <div class="meta">
-                                <span>Quality Insurance</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
-                            </div>
-                        </div>
-                        <!--Icon Block-->
-                        <div class="feature-block">
-                            <div class="round-icon is-icon-reveal">
-                                <img src="assets/images/icons/features/7.svg" alt="">
-                            </div>
-                            <div class="meta">
-                                <span>Quality Insurance</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
+                                <span>Accurate and Powerful Reports</span>
+                                <span>Generate instant reports or schedule daily, weekly, or monthly reports by email.</span>
                             </div>
                         </div>
                         <!--Icon Block-->
@@ -204,8 +147,50 @@
                                 <img src="assets/images/icons/features/9.svg" alt="">
                             </div>
                             <div class="meta">
-                                <span>Quality Insurance</span>
-                                <span>Lorem Ipsum is a dummy text used by typographers</span>
+                                <span>Excellent Support</span>
+                                <span>Email and livechat support are available 24/7 to help you through any issues. </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column is-5">
+                        <!--Icon Block-->
+                        <div class="feature-block">
+                            <div class="round-icon is-icon-reveal">
+                                <img src="assets/images/icons/features/4.svg" alt="">
+                            </div>
+                            <div class="meta">
+                                <span>Free for up to 5 employees</span>
+                                <span>Try it before you buy it. Instead of a free trial, AI Timesheets is completely free for up to 5 employees.</span>
+                            </div>
+                        </div>
+                        <!--Icon Block-->
+                        <div class="feature-block">
+                            <div class="round-icon is-icon-reveal">
+                                <img src="assets/images/icons/features/2.svg" alt="">
+                            </div>
+                            <div class="meta">
+                                <span>Encrypted and Secure</span>
+                                <span>We take security seriously. All data is encrypted both at rest and in transfer for ultimate security.</span>
+                            </div>
+                        </div>
+                        <!--Icon Block-->
+                        <div class="feature-block">
+                            <div class="round-icon is-icon-reveal">
+                                <img src="assets/images/icons/features/10.svg" alt="">
+                            </div>
+                            <div class="meta">
+                                <span>Exports</span>
+                                <span>AI Timesheets exports to your payroll system with ease. ADP, Paycor, and many more are supported.</span>
+                            </div>
+                        </div>
+                        <!--Icon Block-->
+                        <div class="feature-block">
+                            <div class="round-icon is-icon-reveal">
+                                <img src="assets/images/icons/features/8.svg" alt="">
+                            </div>
+                            <div class="meta">
+                                <span>Runs on a tablet</span>
+                                <span>All you need to get started is any Apple iPad or Android tablet. Look for the "AI Timesheets" app..</span>
                             </div>
                         </div>
                     </div>
@@ -218,19 +203,17 @@
             <div class="container">
                 <div class="columns">
                     <div class="column is-4">
-                        <img class="footer-logo" src="assets/images/logo/bulkit-dark.svg" width="112" height="28" alt="">
+                        <img class="footer-logo" src="assets/images/icons/clock-solid.svg" width="112" height="28" alt="">
                         <p class="footer-logo-text is-portrait-padded">
-                            Lorem ipsum sit dolor amet is a dummy text used by
-                            typographers and the web industry. It’s highly likely that
-                            you’ve already seen it.
+                            AI Timesheets offers a free facial recognition clock-in clock-out solution with minimal setup time.
                         </p>
                     </div>
                     <div class="column">
                         <h4 class="title is-5">Get Started</h4>
                         <ul class="footer-menu">
-                            <li><a href="#">Open Account</a></li>
-                            <li><a href="#">Features</a></li>
-                            <li><a href="#">Pricing</a></li>
+                            <li><a href="#pricing">Open Account</a></li>
+                            <li><a href="#features">Features</a></li>
+                            <li><a href="#pricing">Pricing</a></li>
                         </ul>
                     </div>
                     <div class="column">
@@ -244,14 +227,12 @@
                     <div class="column">
                         <h4 class="title is-5">Contact</h4>
                         <ul class="footer-menu">
-                            <li>92,Church Street, Manhattan, NY, USA.</li>
-                            <li>+1(0) 554 489 22</li>
-                            <li>hello@cssninja.io</li>
+                            <li>Proudly Made in Detroit</li>
+                            <li>contact@aitimesheets.com</li>
                         </ul>
                     </div>
                 </div>
                 <div class="copyright">
-                    <img class="copyright-logo" src="assets/images/logo/bulkit-white.svg" width="112" height="28" alt="">
                     <div class="copyright-text">Copyright &copy; {{ now()->year }} AI Timesheets.</div>
                 </div>
             </div>
