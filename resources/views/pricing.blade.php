@@ -12,16 +12,8 @@
                             <span class="colored">FREE</span>
                         </div>
                         <div class="feature">
-                            <span>Up to 10 Employees</span>
-                            <span class="colored">$14.99/month</span>
-                        </div>
-                        <div class="feature">
-                            <span>Up to 25 Employees</span>
-                            <span class="colored">$29.99/month</span>
-                        </div>
-                        <div class="feature">
-                            <span>Up to 50 Employees</span>
-                            <span class="colored">$59.99/month</span>
+                            <span>Additional Employees</span>
+                            <span>$5 Base Price + <span class="colored">$1 Per Month Per Employee</span></span>
                         </div>
                     </div>
                     <form>
