@@ -28,7 +28,7 @@
                     <div class="icon-box">
                         <img src="assets/images/icons/header/fast.svg" alt="">
                         <h4 class="box-title">Free for up to 5 employees</h4>
-                        <p>Not sure if this is right for you? AI Timesheets is free for up to 5 employees. Additional employees will cost $1/per month per employee.</p>
+                        <p>Not sure if this is right for you? AI Timesheets is free for up to 5 employees. Additional employees start at $14.99/month.</p>
                     </div>
                 </div>
             </div>
