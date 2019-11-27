@@ -16,16 +16,15 @@
                             <span>$5 Base Price + <span class="colored">$1 Per Month Per Employee</span></span>
                         </div>
                     </div>
-                    <form>
+                    <form action="https://aitimesheets.us4.list-manage.com/subscribe/post?u=fb17757a7d05f013d90baafc8&amp;id=dc2b1013ef" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                         <div class="control-material is-primary">
-                            <input class="material-input " type="text" required>
+                            <input  type="email" value="" name="EMAIL" class="required email material-input" id="mce-EMAIL" required>
                             <span class="material-highlight"></span>
                             <span class="bar"></span>
                             <label>Email</label>
                         </div>
                         <div class="button-wrap">
-                            <div class="button cta-button primary-button is-raised is-fullwidth is-rounded">Get Early Access
-                            </div>
+                            <input type="submit" value="Get Early Access" name="subscribe" id="mc-embedded-subscribe" class="button cta-button primary-button is-raised is-fullwidth is-rounded">
                         </div>
                     </form>
                 </div>
