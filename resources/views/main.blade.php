@@ -24,8 +24,8 @@
             <div class="container">
                 <div class="navbar-brand">
                     <a class="navbar-item" href="https://aitimesheets.com/">
-                        <img class="light-logo" src="assets/images/icons/clock-solid.svg" width="28" height="28" alt="">
-                        <img class="dark-logo is-hidden" src="assets/images/icons/clock-solid.svg" width="28" height="28" alt="">
+                        <img class="light-logo" src="assets/images/aitime-logo.png" width="28" height="64" alt="">
+                        <img class="dark-logo is-hidden" src="assets/images/aitime-logo.png" width="28" height="64" alt="">
                     </a>
 
                     <!-- Sidebar Trigger -->
@@ -66,7 +66,7 @@
                         <div class="separator"></div>
                         <div class="navbar-item">
                             <a href="#" class="button cta-button is-rounded primary-button">Get Started</a>
-                        </div>
+                        </div> k
                     </div>
                 </div>
             </div>
@@ -203,7 +203,7 @@
             <div class="container">
                 <div class="columns">
                     <div class="column is-4">
-                        <img class="footer-logo" src="assets/images/icons/clock-solid.svg" width="112" height="28" alt="">
+                        <img class="footer-logo" src="assets/images/aitime-logo.png" width="112" height="64" alt="">
                         <p class="footer-logo-text is-portrait-padded">
                             AI Timesheets offers a free facial recognition clock-in clock-out solution with minimal setup time.
                         </p>
