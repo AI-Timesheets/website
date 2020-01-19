@@ -15,7 +15,15 @@
         <link rel="stylesheet" href="assets/css/bulma.css">
         <link rel="stylesheet" href="assets/css/app.css">
         <link rel="stylesheet" href="assets/css/core.css">
+        <!-- Global site tag (gtag.js) - Google Ads: 675388419 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-675388419"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
+            gtag('config', 'AW-675388419');
+        </script>
     </head>
     <body>
         <div class="pageloader"></div>
