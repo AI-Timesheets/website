@@ -74,7 +74,7 @@
                         <div class="separator"></div>
                         <div class="navbar-item">
                             <a href="#" class="button cta-button is-rounded primary-button">Get Started</a>
-                        </div> k
+                        </div>
                     </div>
                 </div>
             </div>
